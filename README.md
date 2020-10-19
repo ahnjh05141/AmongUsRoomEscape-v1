@@ -13,5 +13,6 @@ He can find hints and open doors in many ways.
 w, a, s, d MouseClick
 
 # Hint
-Computer, Vent, CCTV, Bulb\n
+Computer, Vent, CCTV, Bulb
+
 You should click objects when you are close enough...
